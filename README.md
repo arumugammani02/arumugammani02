@@ -4,7 +4,7 @@
   - Hi, I am Arumugam 
   - Pursuing Data Scientist
   - Currently pursuing IIT Certified Master Data Science program
-  - Working on ML projects
+  - I’m Working on Machine Learning projects
   
   <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
